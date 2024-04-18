@@ -1,5 +1,5 @@
 # GitHub-mokymai
-Penktadienio pamoka, skirta ismokti naudoti GitHub.
-susikureme repzitorij
-pridejom programa
-bandeme daryti klaidas ir jas taisyti
+Penktadienio pamoka, skirta išmokti naudoti GitHub.
+Susikūrėme repzitoriją,
+Pridejome programą,
+bandėme daryti klaidas ir jas taisyti.
